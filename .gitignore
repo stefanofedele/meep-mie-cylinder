@@ -1,0 +1,17 @@
+.*.sw*
+.*.sv*
+*~
+*.pyc
+*.o
+
+foo
+a.out
+
+meep_source/
+output/
+output*/
+output.txt
+temp/
+figs/
+vids/
+demos/

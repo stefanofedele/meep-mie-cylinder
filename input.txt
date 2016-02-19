@@ -1,0 +1,14 @@
+lx          4
+ly          4
+resolution  40
+amicron     1
+
+cyl_rad     0.5
+cyl_eps     4.0
+cyl_conduc  0
+
+num_freq    100
+freq        1.9531
+width       0
+
+parameter_change     no  
