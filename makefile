@@ -1,5 +1,5 @@
 CC = g++
-ROOT_DIR = ~/research/mymeep
+ROOT_DIR = meep-base/
 BUILD = build
 CFLAGS = -std=c++11 -I $(ROOT_DIR) -c
 

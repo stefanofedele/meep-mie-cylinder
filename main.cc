@@ -4,9 +4,9 @@
 #include <string>
 #include <vector>
 #include <map>
-#include "materials.h"
-#include "functions.h"
-#include "parameters.h"
+#include "meep-base/materials.h"
+#include "meep-base/functions.h"
+#include "meep-base/parameters.h"
 
 using namespace std;
 using namespace meep;

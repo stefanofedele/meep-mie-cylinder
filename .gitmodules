@@ -1,0 +1,3 @@
+[submodule "meep-base"]
+	path = meep-base
+	url = git@github.com:johnaparker/meep-base.git
